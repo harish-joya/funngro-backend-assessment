@@ -1,5 +1,10 @@
-Note: The walkthrough video was recorded using the Windows Snipping Tool. 
-The audio is working, but the voice volume may sound low on some laptop speakers. 
-For a better listening experience, please use headphones or earphones when playing the video.
+Funngro Backend Engineer – Walkthrough Video
 
-The video and audio can be played using VLC Media Player.
+The walkthrough video for my assessment is available at the link below.
+
+Watch the video:
+Walkthrough Video – https://drive.google.com/file/d/1r503UYGmx10UNFIKAzLeqG1tb1jcT6vr/view?usp=sharing
+
+Note: The video was recorded using the Windows Snipping Tool. The audio is working, but the voice volume may sound low on some laptop speakers. For a better listening experience, please use headphones or earphones.
+
+The video can be played using VLC Media Player.
