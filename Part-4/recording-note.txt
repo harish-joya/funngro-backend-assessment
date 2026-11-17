@@ -1,0 +1,5 @@
+Note: The walkthrough video was recorded using the Windows Snipping Tool. 
+The audio is working, but the voice volume may sound low on some laptop speakers. 
+For a better listening experience, please use headphones or earphones when playing the video.
+
+The video and audio can be played using VLC Media Player.
